@@ -1,1 +1,1 @@
-This is a repository of Algorithm codes.
+This is a repository of my algorithm codes.
